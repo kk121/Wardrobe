@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+    <string name="txt_fav_mark_removed">Favourite mark removed</string>
+    <string name="txt_fav_marked">Marked as Favourite</string>
+    <string name="empty_state">Nothing to show :(\n Add items to wardrobe</string>
+</resources>
